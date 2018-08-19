@@ -1,6 +1,6 @@
 #! /bin/bash
 
-#Run "chmod u+x setGitMacros.sh" and then "./setGitMacros.sh" to use the aliases set herein
+#Run "chmod u+x set_git_macros.sh" and then "./set_git_macros.sh" to use the aliases set herein
 
 #Set git macro commands
 #Run this file in any new git repository
