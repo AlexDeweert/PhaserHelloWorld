@@ -1,0 +1,23 @@
+{
+  "name": "phaser",
+  "version": "3.11.0",
+  "description": "An HTML5 GameDev Library",
+  "main": "index.js",
+  "dependencies": {
+    "phaser": "^3.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexDeweert/PhaserHelloWorld.git"
+  },
+  "author": "Alex L. Deweert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexDeweert/PhaserHelloWorld/issues"
+  },
+  "homepage": "https://github.com/AlexDeweert/PhaserHelloWorld#readme"
+}
